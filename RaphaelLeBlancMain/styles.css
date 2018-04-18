@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.body {
+	background-image:
+    url("mainback.jpg");
+    background-size: cover;
+}
+
+.menu {
+	text-align: center;
+	background-color: white;
+    
+}
+
+.welcome {
+	font-size: 50px;
+	text-align: center;
+	text-shadow: 2px 2px 4px #000000
+
+}
+
+
+
+@media only screen and (min-width: 350px) and (max-width: 767px) {
+	.box2 {
+
+	}
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1199px) {    
+	.box2 {
+
+	}
+
+
+}
+
+@media only screen and (min-width: 1200px) {
+	.box2 {
+
+	}
+
+}
