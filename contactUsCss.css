@@ -1,0 +1,134 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+
+.topnav a.active {
+    background-color: #blue;
+    color: white;
+}
+
+body
+{
+height: 790px;
+background-image: url("background.jpeg");
+background-size: contain;
+}
+
+.x1
+{
+color: blue;
+font-size: 100px;
+text-align: center;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+font-style: italic;
+}
+
+.x2
+{
+position: absolute;
+left: 50px;
+top: 180px;
+color: yellow;
+font-size: 22px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+}
+
+.x3
+{
+position: absolute;
+left: 360px;
+top: 180px;
+color: yellow;
+font-size: 22px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+}
+
+.x4
+{
+position: absolute;	
+color: blue;
+font-size: 40px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+font-style: italic;
+left: 60px;
+top: 120px;
+}
+
+.x5
+{
+position: absolute;	
+color: blue;
+font-size: 40px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+font-style: italic;
+left: 350px;
+top: 120px;
+}
+
+.x6
+{
+position: absolute;	
+color: blue;
+font-size: 40px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+font-style: italic;
+left: 670px;
+top: 120px;
+}
+
+.x7
+{
+position: absolute;
+left: 670px;
+top: 180px;
+color: yellow;
+font-size: 22px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+}
+
+.x8
+{
+position: absolute;
+left: 980px;
+top: 180px;
+color: yellow;
+font-size: 22px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+}
+
+.x9
+{
+position: absolute;	
+color: blue;
+font-size: 40px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+font-style: italic;
+left: 980px;
+top: 120px;
+}
