@@ -22,24 +22,24 @@ font-style: italic;
 
 .x2
 {
-	position: absolute;
-	left: 50px;
-	top: 180px;
-	color: yellow;
-	font-size: 22px;
-	font-family: Impact, Charcoal, sans-serif;
-	text-shadow: 2px 2px 4px #000000;
+position: absolute;
+left: 50px;
+top: 180px;
+color: yellow;
+font-size: 22px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
 }
 
 .x3
 {
-	position: absolute;
-	left: 360px;
-	top: 180px;
-	color: yellow;
-	font-size: 22px;
-	font-family: Impact, Charcoal, sans-serif;
-	text-shadow: 2px 2px 4px #000000;
+position: absolute;
+left: 360px;
+top: 180px;
+color: yellow;
+font-size: 22px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
 }
 
 .x4
@@ -56,12 +56,58 @@ top: 120px;
 
 .x5
 {
-	position: absolute;	
+position: absolute;	
 color: blue;
 font-size: 40px;
 font-family: Impact, Charcoal, sans-serif;
 text-shadow: 2px 2px 4px #000000;
 font-style: italic;
 left: 350px;
+top: 120px;
+}
+
+.x6
+{
+position: absolute;	
+color: blue;
+font-size: 40px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+font-style: italic;
+left: 670px;
+top: 120px;
+}
+
+.x7
+{
+position: absolute;
+left: 670px;
+top: 180px;
+color: yellow;
+font-size: 22px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+}
+
+.x8
+{
+position: absolute;
+left: 980px;
+top: 180px;
+color: yellow;
+font-size: 22px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+}
+
+.x9
+{
+position: absolute;	
+color: blue;
+font-size: 40px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+font-style: italic;
+left: 980px;
 top: 120px;
 }
