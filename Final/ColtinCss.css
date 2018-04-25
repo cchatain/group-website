@@ -1,0 +1,168 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+/* Coltin's Page */
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+
+.topnav a.active {
+    background-color: blue;
+    color: white;
+}
+
+body
+{
+height: 1900px;
+background-image: url("4.jpg");
+background-size: contain;
+}
+
+.div1
+{
+color: blue;
+font-size: 50px;
+text-align: center;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+font-style: italic;
+}
+
+.div2
+{
+position: absolute;
+left: 600px;
+width:550px;
+font-size: 30px;
+padding: 30px;
+color: blue;
+font-family: "Comic Sans MS", cursive, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+}
+
+.div3
+{
+position: absolute;
+font-size: 25px;
+width: 300px;
+left: 700px;
+top: 380px;
+color: white;
+text-shadow: 2px 2px 4px #000000;
+}
+
+.div4
+{
+position: absolute;
+left: 690px;
+top: 880px;
+font-size: 25px;
+width: 400px;
+color: white;
+text-shadow: 2px 2px 4px #000000;
+}
+
+.div5
+{
+	position: absolute;
+	font-size: 25px;
+	width: 380px;
+	left: 690px;
+	top: 1380px;
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+}
+
+#div6
+{
+	width: 250px;
+	font-size: 18px;
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+	margin-left: 240px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	display: none;
+}
+
+#div7
+{
+	position:absolute;
+	width: 250px;
+	font-size: 18px;
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+	margin-left: 5px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	top: 275px;
+	display: none;
+}
+
+
+
+.button1
+{
+	margin-left: 40px;
+	margin-top: 100px;
+	background-color: blue;
+	font-size: 25px;
+	border-radius: 10px;
+	border: 2px solid #000000;
+}
+
+.button1:hover
+{
+	background-color: red;
+}
+
+.button2
+{
+	position:absolute;
+	top: 92px;
+	margin-left: 230px;
+	margin-top: 150px;
+	background-color: blue;
+	font-size: 25px;
+	border-radius: 10px;
+	border: 2px solid #000000;
+}
+
+.button2:hover
+{
+	background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,159 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+/* upinder page */
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+.topnav a:hover {
+    background-color: #white;
+    color: black;
+}
+
+
+.topnav a.active {
+    background-color: #white;
+    color: white;
+}
+
+body
+{
+height: 1000px;
+background-color:white;
+background-image:url("http://www.hdwallpapery.com/static/images/black-background_00313351_rPnuUeI.jpg");
+background-size: 1000px;
+}
+
+.diva
+{
+color:aqua;
+font-size: 40px;
+text-align: center;
+font-style: oblique;
+}
+
+.divb
+{
+position: absolute;
+text-align: center;
+font-size: 30px;
+color: white;
+
+
+}
+
+.divc
+{
+position: absolute;
+font-size: 25px;
+width: 300px;
+left: 10px;
+top: 300px;
+color: white;
+
+}
+
+.divd
+{
+position: absolute;
+left: 500px;
+top: 300px;
+font-size: 25px;
+width: 400px;
+color: white;
+
+}
+
+.dive
+{
+	position: absolute;
+	font-size: 25px;
+	width: 380px;
+	left: 1000px;
+	top: 300px;
+	color: white;
+	
+}
+
+.divf
+{
+position: absolute;
+left: 10px;
+top: 800px;
+font-size: 25px;
+width: 400px;
+color: white;
+
+}
+
+.divg
+{
+position: absolute;
+left: 500px;
+top: 800px;
+font-size: 25px;
+width: 400px;
+color: white;
+
+}
+
+.divh
+{
+position: absolute;
+left: 1000px;
+top: 800px;
+font-size: 25px;
+width: 400px;
+color: white;
+
+}
+#divu
+{
+	position: absolute;
+	width: 950px;
+	font-size: 18px;
+	top:230px;
+	left:70px;
+	color: white;
+	
+    
+}
+
+
+
+
+.button1
+{
+	position: absolute;
+	top: 200px;
+	left:50px;
+	background-color: green;
+	font-size: 25px;
+	border-radius: 10px;
+}
+
+
+{
+	background-color: red;
+}
+
+
+
+/* Contact Us Page */
+

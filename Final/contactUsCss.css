@@ -1,0 +1,136 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+
+.topnav a.active {
+    background-color: #blue;
+    color: white;
+}
+
+
+body
+{
+height: 790px;
+background-image: url("background.jpeg");
+background-size: contain;
+}
+
+.x1
+{
+position:absolute;
+left: 700px;
+color: blue;
+font-size: 100px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+font-style: italic;
+}
+
+.x2
+{
+position: absolute;
+left: 300px;
+top: 230px;
+color: yellow;
+font-size: 22px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+}
+
+.x3
+{
+position: absolute;
+left: 610px;
+top: 230px;
+color: yellow;
+font-size: 22px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+}
+
+.x4
+{
+position: absolute;	
+color: blue;
+font-size: 40px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+font-style: italic;
+left: 310px;
+top: 170px;
+}
+
+.x5
+{
+position: absolute;	
+color: blue;
+font-size: 40px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+font-style: italic;
+left: 600px;
+top: 170px;
+}
+
+.x6
+{
+position: absolute;	
+color: blue;
+font-size: 40px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+font-style: italic;
+left: 920px;
+top: 170px;
+}
+
+.x7
+{
+position: absolute;
+left: 920px;
+top: 230px;
+color: yellow;
+font-size: 22px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+}
+
+.x8
+{
+position: absolute;
+left: 1230px;
+top: 230px;
+color: yellow;
+font-size: 22px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+}
+
+.x9
+{
+position: absolute;	
+color: blue;
+font-size: 40px;
+font-family: Impact, Charcoal, sans-serif;
+text-shadow: 2px 2px 4px #000000;
+font-style: italic;
+left: 1230px;
+top: 170px;
+}
